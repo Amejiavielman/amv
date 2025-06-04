@@ -24,7 +24,7 @@
 <hr>
 
   
-<h2>🛠 Technical Skills</h2>
+<h2>🛠 Technical Skills:</h2>
 <ul>
   <li><b>Languages:</b> Python, C++, SQL, R</li>
   <li><b>Tools:</b> Git, MongoDB, Neo4j, Tableau, Power BI</li>
