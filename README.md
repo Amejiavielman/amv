@@ -9,7 +9,7 @@
   - [Database deliverable](Project 2 Deliverable.pdf)
 - <b>Music Streaming Platform Database (Multi-page web application in PHP)</b>
   - [Database deliverable](Web application.pdf)
-- <b>Encoding data in XML </b>
+- <b>Encoding data in XML (Products sold in store; Ride share service)</b>
   - [XML deliverable](XML encoding.pdf)
   - [XML code](xml code.pdf)
   
