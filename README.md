@@ -1,4 +1,5 @@
-<h1>Hi, I'm Alex!</h1>
+<h1>About Me</h1>
+<hr>
 
 <p>
   Hi! I’m Alex — a freshly minted Computer Science grad from Providence College who loves building things that actually work (and fixing them when they don’t). 
