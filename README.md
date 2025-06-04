@@ -4,8 +4,8 @@
 
 - <b>Music Streaming Platform Database (Multi-page web application in PHP)</b>
   - [Database deliverable](Web application.pdf)
-- <b>Mongo Database (JSON and Python used)</b>
-  - [Databse deliverable](Project 1-MongoDB.pdf)<b>
+- <b>University Tutoring System Mongo Database (JSON and Python)</b>
+  - [Database deliverable](Project 1-MongoDB.pdf)<b>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
