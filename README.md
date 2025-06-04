@@ -7,6 +7,7 @@
   I thrive on solving puzzles, learning new tools, and turning “this might be crazy…” into “hey, this actually works!” 
   Outside of coding, you’ll find me searching for new songs to listen to, surviving on iced coffee, and pretending one more bug fix won’t turn into a three-hour adventure. 
 </p>
+<hr>
 
 <h2>👩‍💻 Database Systems Projects:</h2>
 
@@ -20,6 +21,7 @@
 - <b>Encoding data in XML (Products sold in store; Ride share service)</b>
   - [XML deliverable](XML encoding.pdf)
   - [XML code](xml code.pdf)
+<hr>
 
   
 <h2>🛠 Technical Skills</h2>
@@ -28,6 +30,7 @@
   <li><b>Tools:</b> Git, MongoDB, Neo4j, Tableau, Power BI</li>
   <li><b>Concepts:</b> Data Structures, Algorithms, Database Design, Networking</li>
 </ul>
+<hr>
 
 
 <h2> 🤳 Connect with me:</h2>
