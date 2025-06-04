@@ -24,10 +24,6 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-<ul>
-  <li>Email: <a href="mailto:amejiaviel@gmail.com">amejiaviel@gmail.com</a></li>
-  <li>Phone: <a href="tel:+14016325874">(401) 632-5874</a></li>
-</ul>
 
 
 <!--
