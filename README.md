@@ -9,6 +9,8 @@
   - [Database deliverable](Project 2 Deliverable.pdf)
 - <b>Music Streaming Platform Database (Multi-page web application in PHP)</b>
   - [Database deliverable](Web application.pdf)
+-<b>Encoding data in XML</b>
+  - [XML deliverable](XML encoding.pdf)
   
 
 <h2>📺 Popular YouTube Videos</h2>
