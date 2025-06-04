@@ -1,5 +1,12 @@
 <h1>Hi, I'm Alex!</h1>
 
+<p>
+  Hi! I’m Alex — a freshly minted Computer Science grad from Providence College who loves building things that actually work (and fixing them when they don’t). 
+  Whether it’s designing a tutoring database or untangling messy code, I’m all about making tech useful, clean, and a little bit fun. 
+  I thrive on solving puzzles, learning new tools, and turning “this might be crazy…” into “hey, this actually works!” 
+  Outside of coding, you’ll find me searching for new songs to listen to, surviving on iced coffee, and pretending one more bug fix won’t turn into a three-hour adventure. 
+</p>
+
 <h2>👩‍💻 Database Systems Projects:</h2>
 
 - <b>University Tutoring System Mongo Database (JSON and Python)</b>
