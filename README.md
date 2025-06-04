@@ -24,6 +24,16 @@
 
 <h2> 🤳 Connect with me:</h2>
 
+<ul style="list-style: none; padding-left: 0;">
+  <li>
+    <i class="fas fa-envelope"></i>
+    <a href="mailto:amejiaviel@gmail.com">amejiaviel@gmail.com</a>
+  </li>
+  <li>
+    <i class="fas fa-phone"></i>
+    <a href="tel:+14016325874">(401) 632-5874</a>
+  </li>
+</ul>
 
 
 <!--
