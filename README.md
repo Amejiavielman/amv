@@ -45,7 +45,7 @@
     <a href="tel:+14016325874">(401) 632-5874</a>
   </li>
 </ul>
-
+<hr>
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
