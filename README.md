@@ -2,13 +2,13 @@
 
 <h2>👩‍💻 Database Systems Projects:</h2>
 
-- <b>Music Streaming Platform Database (Multi-page web application in PHP)</b>
-  - [Database deliverable](Web application.pdf)
 - <b>University Tutoring System Mongo Database (JSON and Python)</b>
   - [Database deliverable](Project 1-MongoDB.pdf)
   - [Video file: application demonstration and interaction](phase 3.mp4)<b>
 - <b>Music Streaming Graph Database (Neo4J Desktop)</b>
   - [Database deliverable](Project 2 Deliverable.pdf)
+- <b>Music Streaming Platform Database (Multi-page web application in PHP)</b>
+  - [Database deliverable](Web application.pdf)
   
 
 <h2>📺 Popular YouTube Videos</h2>
