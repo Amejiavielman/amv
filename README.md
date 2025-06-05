@@ -28,7 +28,7 @@
 <ul>
   <li><b>Languages:</b> Python, C++, SQL, R</li>
   <li><b>Tools:</b> Excel, MongoDB, Neo4j, Tableau, Power BI</li>
-  <li><b>Concepts:</b> Data Structures, Algorithms, Database Design, Networking</li>
+  <li><b>Concepts:</b> Data Science, Algorithms, Database Management & Systems, Coding</li>
 </ul>
 <hr>
 
