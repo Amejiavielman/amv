@@ -2,7 +2,7 @@
 <hr>
 
 <p>
-  Hi! I’m Alex — a Computer Science grad from Providence College who loves building things that actually work (and fixing them when they don’t).  
+  Hi! I’m Alex — a Computer Science grad from Providence College.  
 </p>
 <hr>
 
